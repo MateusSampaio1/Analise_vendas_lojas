@@ -40,7 +40,7 @@ Neste projeto a análise de dados foi desenvolvida utilizando Excel, por meio do
 
 Durante o processo de análise foram gerados alguns insights relativos ao **produto mais vendido**, **a loja que mais vendeu**, **o faturamento mensal**, além de algumas características dos clientes.
 
-Considerando todo o período estudado e todos os tamanhos disponíveis, o **produto mais vendido** foi o Iron Man, com um tottal de 1501 unidades vendidas. Contudo aos realizar uma divisão por tamanhos, o que mais vendeu foi o Bazinga tamanho G com 1020 unidades vendidas.
+Considerando todo o período estudado e todos os tamanhos disponíveis, o **produto mais vendido** foi o Iron Man, com um total de 1501 unidades vendidas. Contudo aos realizar uma divisão por tamanhos, o que mais vendeu foi o Bazinga tamanho G com 1020 unidades vendidas.
 
 Observando por período anual, em 2018, o mais vendido foi o Thanos tamanho G com 601 unidades, em 2019, foi o BIXDream tambem de tamanho G 869 com unidades. 
 * Vale ressaltar que em 2018 a coleta de dados começou em março, e isso influenciou a quantidade de itens vendidos. Já em 2020 foram coletados dados apenas em janeiro inviabilizando a análise.
@@ -65,3 +65,5 @@ As classes foram distribuídas da seguinte forma:
 Ao analisar a distribuição de clientes, é possível identicar alguns pontos interessantes:
 - A maioria dos clientes são homens, com uma distribuição que fica em torno de 87% de clientes homens e  os outros 13% são mulheres.
 - Sobre a faixa etária dos clientes, é evidente que a classe que mais compra é a B, ou seja, clientes com idade entre 34 à 46 anos, e representa quase 45% de todas as vendas.
+
+Tanto o [Dashboard](https://github.com/MateusSampaio1/Analise_vendas_lojas/blob/main/Dash_Vendas.pbix), quanto a [planilha de Excel](https://github.com/MateusSampaio1/Analise_vendas_lojas/blob/main/Base%20de%20Dados%20.xlsx) podem ser encontrados na documentação do projeto.
